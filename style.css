@@ -18,3 +18,6 @@ ol.steps { padding-left:1.4em; } ol.steps > li { margin:14px 0; }
 .app p { margin:4px 0 10px; color:var(--muted); }
 .btn { display:inline-block; margin:4px 8px 4px 0; padding:9px 16px; border-radius:999px; background:var(--accent); color:var(--bg); text-decoration:none; font-weight:600; }
 .btn.alt { background:transparent; color:var(--accent); border:2px solid var(--accent); padding:7px 14px; }
+.app .src { font-size:.9rem; }
+.step-btns { margin:8px 0 4px; }
+.wait { font-size:1.05rem; }
