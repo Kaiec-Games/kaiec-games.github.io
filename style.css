@@ -12,3 +12,9 @@ a { color:var(--accent); }
 nav.lang { margin:16px 0 24px; padding-bottom:16px; border-bottom:1px solid var(--line); }
 section + section { margin-top:48px; padding-top:24px; border-top:1px solid var(--line); }
 ul.apps { list-style:none; padding:0; } ul.apps li { margin:12px 0; }
+ol.steps { padding-left:1.4em; } ol.steps > li { margin:14px 0; }
+.note { border-left:4px solid var(--accent); background:color-mix(in srgb, var(--accent) 10%, transparent); padding:12px 16px; border-radius:6px; margin:20px 0; }
+.app { border:1px solid var(--line); border-radius:12px; padding:14px 16px; margin:12px 0; }
+.app p { margin:4px 0 10px; color:var(--muted); }
+.btn { display:inline-block; margin:4px 8px 4px 0; padding:9px 16px; border-radius:999px; background:var(--accent); color:var(--bg); text-decoration:none; font-weight:600; }
+.btn.alt { background:transparent; color:var(--accent); border:2px solid var(--accent); padding:7px 14px; }
