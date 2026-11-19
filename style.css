@@ -21,3 +21,4 @@ ol.steps { padding-left:1.4em; } ol.steps > li { margin:14px 0; }
 .app .src { font-size:.9rem; }
 .step-btns { margin:8px 0 4px; }
 .wait { font-size:1.05rem; }
+ul.links { margin:8px 0 4px; padding-left:1.2em; } ul.links li { margin:8px 0; }
